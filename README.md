@@ -1,4 +1,4 @@
-![logo](https://github.com/sauravsingh999/sauravsingh999/blob/main/banner.png)
+![logo](https://github.com/sauravsingh999/sauravsingh999/blob/main/gitBanner.png)
 <h1 align="center">Hi 👋, I'm Saurav Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
